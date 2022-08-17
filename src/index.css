@@ -1,0 +1,27 @@
+*{
+  margin: opx;
+  padding: opx;
+}
+
+nav{
+  background-color: white;
+  text-align: center;
+  display:  block;
+  color:brown;background-color:blueviolet;
+
+
+}
+.todo:hover{
+  border: 2px solid yellow;
+  height: 120px;
+  width: 310px;
+  background-color: white;
+  color: #55488d;
+}
+main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+}
